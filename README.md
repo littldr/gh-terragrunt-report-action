@@ -1,5 +1,7 @@
 # gh-terragrunt-report-action
 
+:warning: Deprecated in favour of https://github.com/visable-dev/gh-action-terragrunt-report
+
 Github Action which post multiple terraform plan outputs as comment in pull requests.
 
 This action is inspired by the [ahmadnassri/action-terraform-report](https://github.com/ahmadnassri/action-terraform-report) action.
